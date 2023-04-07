@@ -1,0 +1,2 @@
+exports.INVLAID_SUBSCRIPTION = 300;
+exports.ACCOUNT_LOCKED = 301;
