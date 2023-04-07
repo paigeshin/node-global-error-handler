@@ -1,0 +1,1 @@
+# node-global-error-handler
