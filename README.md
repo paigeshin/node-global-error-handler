@@ -46,6 +46,7 @@ module.exports = errorHandler;
 
 
 ### ./constants/errorCodes.js
+
 ```jsx
 exports.INVLAID_SUBSCRIPTION = 300;
 exports.ACCOUNT_LOCKED = 301;
