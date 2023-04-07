@@ -43,7 +43,7 @@ const errorHandler = (err, req, res, next) => {
 };
 
 module.exports = errorHandler;
-
+```
 
 ### ./constants/errorCodes.js
 
